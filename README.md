@@ -16,4 +16,4 @@ The purpose of this application is to offer a service like OneDrive but without 
 ## How to do
 In progress...
 ## Logo
-![Logo](https://raw.githubusercontent.com/TomMarti/HOMESTORAGE/master/res/homestorage.png)
+![Logo](https://raw.githubusercontent.com/TEAM8279/HOMESTORAGE/master/res/homestorage.png)
