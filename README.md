@@ -12,7 +12,7 @@ The purpose of this application is to offer a service like OneDrive but without 
 ## Advantage
 * No data leaking
 * No GAFAM used
-* Only you have the data
+* Only you have your data
 ## How to do
 In progress...
 ## Logo
